@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<company>
+
+    <department name="IT">
+
+        <employee id="1" age="25">Alice</employee>
+        <employee id="2" age="30">Bob</employee>
+
+    </department>
+
+    <department name="HR">
+
+        <employee id="3" age="25">Carol</employee>
+
+    </department>
+
+</company>
